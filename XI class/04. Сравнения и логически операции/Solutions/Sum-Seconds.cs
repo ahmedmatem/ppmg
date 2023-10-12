@@ -24,7 +24,7 @@ namespace SumSeconds
 
             //string delimiter = (seconds < 10) ? ":0" : ":";
 
-            Console.WriteLine($"{minutes}:{seconds:D10}");
+            Console.WriteLine($"{minutes}:{seconds:D2}");
         }
     }
 }
