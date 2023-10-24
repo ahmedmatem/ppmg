@@ -44,7 +44,7 @@ namespace HelpDimo
 
             if(currentAttempt > 0)
             {
-                Console.WriteLine($"Dimo did it, he reached his goal with {currentTarget}cm. He made {allAttempts - 5} tries.");
+                Console.WriteLine($"Dimo did it, he reached his goal with {currentTarget - 5}cm. He made {allAttempts} tries.");
             }
         }
     }
