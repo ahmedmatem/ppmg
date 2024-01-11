@@ -1,0 +1,15 @@
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\05.EmployeeManager\bin\Debug\net8.0\05.EmployeeManager.exe
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\05.EmployeeManager\bin\Debug\net8.0\05.EmployeeManager.deps.json
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\05.EmployeeManager\bin\Debug\net8.0\05.EmployeeManager.runtimeconfig.json
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\05.EmployeeManager\bin\Debug\net8.0\05.EmployeeManager.dll
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\05.EmployeeManager\bin\Debug\net8.0\05.EmployeeManager.pdb
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\05.EmployeeManager\obj\Debug\net8.0\05.EmployeeManager.GeneratedMSBuildEditorConfig.editorconfig
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\05.EmployeeManager\obj\Debug\net8.0\05.EmployeeManager.AssemblyInfoInputs.cache
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\05.EmployeeManager\obj\Debug\net8.0\05.EmployeeManager.AssemblyInfo.cs
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\05.EmployeeManager\obj\Debug\net8.0\05.EmployeeManager.csproj.CoreCompileInputs.cache
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\05.EmployeeManager\obj\Debug\net8.0\05.EmployeeManager.sourcelink.json
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\05.EmployeeManager\obj\Debug\net8.0\05.EmployeeManager.dll
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\05.EmployeeManager\obj\Debug\net8.0\refint\05.EmployeeManager.dll
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\05.EmployeeManager\obj\Debug\net8.0\05.EmployeeManager.pdb
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\05.EmployeeManager\obj\Debug\net8.0\05.EmployeeManager.genruntimeconfig.cache
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\05.EmployeeManager\obj\Debug\net8.0\ref\05.EmployeeManager.dll

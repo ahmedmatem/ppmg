@@ -1,0 +1,15 @@
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\MenuExample\bin\Debug\net8.0\MenuExample.exe
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\MenuExample\bin\Debug\net8.0\MenuExample.deps.json
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\MenuExample\bin\Debug\net8.0\MenuExample.runtimeconfig.json
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\MenuExample\bin\Debug\net8.0\MenuExample.dll
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\MenuExample\bin\Debug\net8.0\MenuExample.pdb
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\MenuExample\obj\Debug\net8.0\MenuExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\MenuExample\obj\Debug\net8.0\MenuExample.AssemblyInfoInputs.cache
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\MenuExample\obj\Debug\net8.0\MenuExample.AssemblyInfo.cs
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\MenuExample\obj\Debug\net8.0\MenuExample.csproj.CoreCompileInputs.cache
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\MenuExample\obj\Debug\net8.0\MenuExample.sourcelink.json
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\MenuExample\obj\Debug\net8.0\MenuExample.dll
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\MenuExample\obj\Debug\net8.0\refint\MenuExample.dll
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\MenuExample\obj\Debug\net8.0\MenuExample.pdb
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\MenuExample\obj\Debug\net8.0\MenuExample.genruntimeconfig.cache
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\MenuExample\obj\Debug\net8.0\ref\MenuExample.dll
