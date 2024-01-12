@@ -39,7 +39,7 @@
 
             // Clear() - премахва всички елементи
             numbers.Clear();
-            Console.WriteLine(numbers.Count); // изход --> 0
+            Console.WriteLine(numbers.Count);           // изход --> 0
         }
     }
 }

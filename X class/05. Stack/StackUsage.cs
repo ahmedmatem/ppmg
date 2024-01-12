@@ -22,25 +22,25 @@
 
             // Pop() - премахва и връща най-горния елемент в стека
             string lastElement = words.Pop();
-            Console.WriteLine(lastElement); // изход --> cat
-            Console.WriteLine(words.Pop()); // изход --> mouse
+            Console.WriteLine(lastElement);             // изход --> cat
+            Console.WriteLine(words.Pop());             // изход --> mouse
 
             // Peek() - Връща най-горния елемент в стека, без да го премахва
-            Console.WriteLine(words.Peek()); // изход --> ball
+            Console.WriteLine(words.Peek());            // изход --> ball
 
             // Count - връща броя на елементите в стека
-            Console.WriteLine(words.Count); // изход --> 2
+            Console.WriteLine(words.Count);             // изход --> 2
 
             // Contains(element) - проверява дали element се среща в стека
-            Console.WriteLine(words.Contains("lion")); // изход --> False
-            Console.WriteLine(words.Contains("ball")); // изход --> True
+            Console.WriteLine(words.Contains("lion"));  // изход --> False
+            Console.WriteLine(words.Contains("ball"));  // изход --> True
 
             // ToArray() - преобразува стека в обикновен масив
             string[] wordsArr = words.ToArray();
 
             // Clear() - премахва всички елементи
             words.Clear();
-            Console.WriteLine(words.Count); // изход --> 0
+            Console.WriteLine(words.Count);             // изход --> 0
         }
     }
 }
