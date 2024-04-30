@@ -1,0 +1,15 @@
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\02.Factoriel-Calculator\bin\Debug\net6.0\02.Factoriel-Calculator.exe
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\02.Factoriel-Calculator\bin\Debug\net6.0\02.Factoriel-Calculator.deps.json
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\02.Factoriel-Calculator\bin\Debug\net6.0\02.Factoriel-Calculator.runtimeconfig.json
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\02.Factoriel-Calculator\bin\Debug\net6.0\02.Factoriel-Calculator.dll
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\02.Factoriel-Calculator\bin\Debug\net6.0\02.Factoriel-Calculator.pdb
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\02.Factoriel-Calculator\obj\Debug\net6.0\02.Factoriel-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\02.Factoriel-Calculator\obj\Debug\net6.0\02.Factoriel-Calculator.AssemblyInfoInputs.cache
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\02.Factoriel-Calculator\obj\Debug\net6.0\02.Factoriel-Calculator.AssemblyInfo.cs
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\02.Factoriel-Calculator\obj\Debug\net6.0\02.Factoriel-Calculator.csproj.CoreCompileInputs.cache
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\02.Factoriel-Calculator\obj\Debug\net6.0\02.Factoriel-Calculator.sourcelink.json
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\02.Factoriel-Calculator\obj\Debug\net6.0\02.Factoriel-Calculator.dll
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\02.Factoriel-Calculator\obj\Debug\net6.0\refint\02.Factoriel-Calculator.dll
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\02.Factoriel-Calculator\obj\Debug\net6.0\02.Factoriel-Calculator.pdb
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\02.Factoriel-Calculator\obj\Debug\net6.0\02.Factoriel-Calculator.genruntimeconfig.cache
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\02.Factoriel-Calculator\obj\Debug\net6.0\ref\02.Factoriel-Calculator.dll

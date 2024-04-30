@@ -1,0 +1,12 @@
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\TaskExample\bin\Debug\TaskExample.exe.config
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\TaskExample\obj\Debug\TaskExample.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\TaskExample\obj\Debug\TaskExample.pdb
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\TaskExample\bin\Debug\TaskExample.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\TaskExample\bin\Debug\TaskExample.pdb
+F:\PPMG\github\XI class\03. Asynchronous-Programming\CSharp-Asynchronous-Programming-Demos\TaskExample\bin\Debug\TaskExample.exe.config
+F:\PPMG\github\XI class\03. Asynchronous-Programming\CSharp-Asynchronous-Programming-Demos\TaskExample\bin\Debug\TaskExample.exe
+F:\PPMG\github\XI class\03. Asynchronous-Programming\CSharp-Asynchronous-Programming-Demos\TaskExample\bin\Debug\TaskExample.pdb
+F:\PPMG\github\XI class\03. Asynchronous-Programming\CSharp-Asynchronous-Programming-Demos\TaskExample\obj\Debug\04. SliceFileTask.csproj.AssemblyReference.cache
+F:\PPMG\github\XI class\03. Asynchronous-Programming\CSharp-Asynchronous-Programming-Demos\TaskExample\obj\Debug\04. SliceFileTask.csproj.CoreCompileInputs.cache
+F:\PPMG\github\XI class\03. Asynchronous-Programming\CSharp-Asynchronous-Programming-Demos\TaskExample\obj\Debug\TaskExample.exe
+F:\PPMG\github\XI class\03. Asynchronous-Programming\CSharp-Asynchronous-Programming-Demos\TaskExample\obj\Debug\TaskExample.pdb

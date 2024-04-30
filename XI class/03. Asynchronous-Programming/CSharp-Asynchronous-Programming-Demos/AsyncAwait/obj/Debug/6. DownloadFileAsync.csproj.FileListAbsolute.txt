@@ -1,0 +1,6 @@
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\AsyncAwait\obj\Debug\AsyncAwait.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\AsyncAwait\obj\Debug\AsyncAwait.pdb
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\AsyncAwait\bin\Debug\AsyncAwait.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\AsyncAwait\bin\Debug\AsyncAwait.pdb
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\AsyncAwait\obj\Debug\6. DownloadFileAsync.csprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\SyncProgrammingProblems\bin\Debug\SyncProgrammingProblems.exe.config
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\SyncProgrammingProblems\obj\Debug\SyncProgrammingProblems.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\SyncProgrammingProblems\obj\Debug\SyncProgrammingProblems.pdb
+F:\PPMG\Exercises\XI_class\Asynchronous-Programming\CSharp-Asynchronous-Programming-Demos\SyncProgrammingProblems\bin\Debug\SyncProgrammingProblems.exe.config
+F:\PPMG\Exercises\XI_class\Asynchronous-Programming\CSharp-Asynchronous-Programming-Demos\SyncProgrammingProblems\bin\Debug\SyncProgrammingProblems.exe
+F:\PPMG\Exercises\XI_class\Asynchronous-Programming\CSharp-Asynchronous-Programming-Demos\SyncProgrammingProblems\bin\Debug\SyncProgrammingProblems.pdb
+F:\PPMG\Exercises\XI_class\Asynchronous-Programming\CSharp-Asynchronous-Programming-Demos\SyncProgrammingProblems\obj\Debug\01. SyncProgrammingProblems.csproj.AssemblyReference.cache
+F:\PPMG\Exercises\XI_class\Asynchronous-Programming\CSharp-Asynchronous-Programming-Demos\SyncProgrammingProblems\obj\Debug\01. SyncProgrammingProblems.csproj.CoreCompileInputs.cache
+F:\PPMG\Exercises\XI_class\Asynchronous-Programming\CSharp-Asynchronous-Programming-Demos\SyncProgrammingProblems\obj\Debug\SyncProgrammingProblems.exe
+F:\PPMG\Exercises\XI_class\Asynchronous-Programming\CSharp-Asynchronous-Programming-Demos\SyncProgrammingProblems\obj\Debug\SyncProgrammingProblems.pdb
+F:\PPMG\github\XI class\03. Asynchronous-Programming\CSharp-Asynchronous-Programming-Demos\SyncProgrammingProblems\bin\Debug\SyncProgrammingProblems.exe.config
+F:\PPMG\github\XI class\03. Asynchronous-Programming\CSharp-Asynchronous-Programming-Demos\SyncProgrammingProblems\bin\Debug\SyncProgrammingProblems.exe
+F:\PPMG\github\XI class\03. Asynchronous-Programming\CSharp-Asynchronous-Programming-Demos\SyncProgrammingProblems\bin\Debug\SyncProgrammingProblems.pdb
+F:\PPMG\github\XI class\03. Asynchronous-Programming\CSharp-Asynchronous-Programming-Demos\SyncProgrammingProblems\obj\Debug\01. SyncProgrammingProblems.csproj.AssemblyReference.cache
+F:\PPMG\github\XI class\03. Asynchronous-Programming\CSharp-Asynchronous-Programming-Demos\SyncProgrammingProblems\obj\Debug\01. SyncProgrammingProblems.csproj.CoreCompileInputs.cache
+F:\PPMG\github\XI class\03. Asynchronous-Programming\CSharp-Asynchronous-Programming-Demos\SyncProgrammingProblems\obj\Debug\SyncProgrammingProblems.exe
+F:\PPMG\github\XI class\03. Asynchronous-Programming\CSharp-Asynchronous-Programming-Demos\SyncProgrammingProblems\obj\Debug\SyncProgrammingProblems.pdb

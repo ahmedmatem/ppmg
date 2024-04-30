@@ -1,0 +1,6 @@
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\UsingBuiltInAsyncMethods\bin\Release\UsingBuiltInAsyncMethods.exe.config
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\UsingBuiltInAsyncMethods\bin\Release\UsingBuiltInAsyncMethods.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\UsingBuiltInAsyncMethods\bin\Release\UsingBuiltInAsyncMethods.pdb
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\UsingBuiltInAsyncMethods\obj\Release\7. UsingBuiltInAsyncMethods.csprojResolveAssemblyReference.cache
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\UsingBuiltInAsyncMethods\obj\Release\UsingBuiltInAsyncMethods.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\UsingBuiltInAsyncMethods\obj\Release\UsingBuiltInAsyncMethods.pdb

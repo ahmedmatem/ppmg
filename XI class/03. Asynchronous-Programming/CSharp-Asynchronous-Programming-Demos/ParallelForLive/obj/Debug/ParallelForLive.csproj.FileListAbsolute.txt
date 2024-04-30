@@ -1,0 +1,4 @@
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ParallelForLive\bin\Debug\ParallelForLive.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ParallelForLive\bin\Debug\ParallelForLive.pdb
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ParallelForLive\obj\Debug\ParallelForLive.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ParallelForLive\obj\Debug\ParallelForLive.pdb

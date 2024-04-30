@@ -1,0 +1,6 @@
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ParallelForEach\bin\Debug\ParallelForEach.exe.config
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ParallelForEach\obj\Debug\ParallelForEach.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ParallelForEach\obj\Debug\ParallelForEach.pdb
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ParallelForEach\bin\Debug\ParallelForEach.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ParallelForEach\bin\Debug\ParallelForEach.pdb
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ParallelForEach\obj\Debug\9. ParallelForEach.csprojResolveAssemblyReference.cache

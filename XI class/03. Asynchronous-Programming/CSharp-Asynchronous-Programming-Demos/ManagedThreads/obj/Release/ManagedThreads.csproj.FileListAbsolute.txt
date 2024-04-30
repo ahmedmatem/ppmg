@@ -1,0 +1,6 @@
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ManagedThreads\bin\Release\ManagedThreads.exe.config
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ManagedThreads\bin\Release\ManagedThreads.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ManagedThreads\bin\Release\ManagedThreads.pdb
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ManagedThreads\obj\Release\ManagedThreads.csprojResolveAssemblyReference.cache
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ManagedThreads\obj\Release\ManagedThreads.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ManagedThreads\obj\Release\ManagedThreads.pdb

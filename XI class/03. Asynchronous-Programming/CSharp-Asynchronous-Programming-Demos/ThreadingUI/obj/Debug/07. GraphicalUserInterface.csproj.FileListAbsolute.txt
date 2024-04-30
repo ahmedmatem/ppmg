@@ -1,0 +1,3 @@
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ThreadingUI\bin\Debug\ThreadingUI.exe.config
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ThreadingUI\obj\Debug\ThreadingUI.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ThreadingUI\obj\Debug\ThreadingUI.pdb

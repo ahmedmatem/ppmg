@@ -1,0 +1,15 @@
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\01.Fibonachy-Numbers\bin\Debug\net6.0\01.Fibonachy-Numbers.exe
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\01.Fibonachy-Numbers\bin\Debug\net6.0\01.Fibonachy-Numbers.deps.json
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\01.Fibonachy-Numbers\bin\Debug\net6.0\01.Fibonachy-Numbers.runtimeconfig.json
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\01.Fibonachy-Numbers\bin\Debug\net6.0\01.Fibonachy-Numbers.dll
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\01.Fibonachy-Numbers\bin\Debug\net6.0\01.Fibonachy-Numbers.pdb
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\01.Fibonachy-Numbers\obj\Debug\net6.0\01.Fibonachy-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\01.Fibonachy-Numbers\obj\Debug\net6.0\01.Fibonachy-Numbers.AssemblyInfoInputs.cache
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\01.Fibonachy-Numbers\obj\Debug\net6.0\01.Fibonachy-Numbers.AssemblyInfo.cs
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\01.Fibonachy-Numbers\obj\Debug\net6.0\01.Fibonachy-Numbers.csproj.CoreCompileInputs.cache
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\01.Fibonachy-Numbers\obj\Debug\net6.0\01.Fibonachy-Numbers.sourcelink.json
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\01.Fibonachy-Numbers\obj\Debug\net6.0\01.Fibonachy-Numbers.dll
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\01.Fibonachy-Numbers\obj\Debug\net6.0\refint\01.Fibonachy-Numbers.dll
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\01.Fibonachy-Numbers\obj\Debug\net6.0\01.Fibonachy-Numbers.pdb
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\01.Fibonachy-Numbers\obj\Debug\net6.0\01.Fibonachy-Numbers.genruntimeconfig.cache
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\01.Fibonachy-Numbers\obj\Debug\net6.0\ref\01.Fibonachy-Numbers.dll

@@ -1,0 +1,5 @@
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ParallelFor\bin\Debug\ParallelFor.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ParallelFor\bin\Debug\ParallelFor.pdb
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ParallelFor\obj\Debug\3. ParallelFor.csprojResolveAssemblyReference.cache
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ParallelFor\obj\Debug\ParallelFor.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ParallelFor\obj\Debug\ParallelFor.pdb

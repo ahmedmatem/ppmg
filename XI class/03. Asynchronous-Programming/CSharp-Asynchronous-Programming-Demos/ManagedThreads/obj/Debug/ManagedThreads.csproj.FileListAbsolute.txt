@@ -1,0 +1,5 @@
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ManagedThreads\bin\Debug\ManagedThreads.exe.config
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ManagedThreads\bin\Debug\ManagedThreads.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ManagedThreads\bin\Debug\ManagedThreads.pdb
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ManagedThreads\obj\Debug\ManagedThreads.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ManagedThreads\obj\Debug\ManagedThreads.pdb

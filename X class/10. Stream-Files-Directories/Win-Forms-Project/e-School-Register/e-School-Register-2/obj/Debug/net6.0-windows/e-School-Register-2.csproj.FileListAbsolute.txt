@@ -1,0 +1,17 @@
+F:\PPMG\github\X class\10. Stream-Files-Directories\Win-Forms-Project\e-School-Register\e-School-Register-2\bin\Debug\net6.0-windows\e-School-Register-2.exe
+F:\PPMG\github\X class\10. Stream-Files-Directories\Win-Forms-Project\e-School-Register\e-School-Register-2\bin\Debug\net6.0-windows\e-School-Register-2.deps.json
+F:\PPMG\github\X class\10. Stream-Files-Directories\Win-Forms-Project\e-School-Register\e-School-Register-2\bin\Debug\net6.0-windows\e-School-Register-2.runtimeconfig.json
+F:\PPMG\github\X class\10. Stream-Files-Directories\Win-Forms-Project\e-School-Register\e-School-Register-2\bin\Debug\net6.0-windows\e-School-Register-2.dll
+F:\PPMG\github\X class\10. Stream-Files-Directories\Win-Forms-Project\e-School-Register\e-School-Register-2\bin\Debug\net6.0-windows\e-School-Register-2.pdb
+F:\PPMG\github\X class\10. Stream-Files-Directories\Win-Forms-Project\e-School-Register\e-School-Register-2\obj\Debug\net6.0-windows\e_School_Register_2.Form1.resources
+F:\PPMG\github\X class\10. Stream-Files-Directories\Win-Forms-Project\e-School-Register\e-School-Register-2\obj\Debug\net6.0-windows\e-School-Register-2.csproj.GenerateResource.cache
+F:\PPMG\github\X class\10. Stream-Files-Directories\Win-Forms-Project\e-School-Register\e-School-Register-2\obj\Debug\net6.0-windows\e-School-Register-2.GeneratedMSBuildEditorConfig.editorconfig
+F:\PPMG\github\X class\10. Stream-Files-Directories\Win-Forms-Project\e-School-Register\e-School-Register-2\obj\Debug\net6.0-windows\e-School-Register-2.AssemblyInfoInputs.cache
+F:\PPMG\github\X class\10. Stream-Files-Directories\Win-Forms-Project\e-School-Register\e-School-Register-2\obj\Debug\net6.0-windows\e-School-Register-2.AssemblyInfo.cs
+F:\PPMG\github\X class\10. Stream-Files-Directories\Win-Forms-Project\e-School-Register\e-School-Register-2\obj\Debug\net6.0-windows\e-School-Register-2.csproj.CoreCompileInputs.cache
+F:\PPMG\github\X class\10. Stream-Files-Directories\Win-Forms-Project\e-School-Register\e-School-Register-2\obj\Debug\net6.0-windows\e-School-Register-2.sourcelink.json
+F:\PPMG\github\X class\10. Stream-Files-Directories\Win-Forms-Project\e-School-Register\e-School-Register-2\obj\Debug\net6.0-windows\e-School-Register-2.dll
+F:\PPMG\github\X class\10. Stream-Files-Directories\Win-Forms-Project\e-School-Register\e-School-Register-2\obj\Debug\net6.0-windows\refint\e-School-Register-2.dll
+F:\PPMG\github\X class\10. Stream-Files-Directories\Win-Forms-Project\e-School-Register\e-School-Register-2\obj\Debug\net6.0-windows\e-School-Register-2.pdb
+F:\PPMG\github\X class\10. Stream-Files-Directories\Win-Forms-Project\e-School-Register\e-School-Register-2\obj\Debug\net6.0-windows\e-School-Register-2.genruntimeconfig.cache
+F:\PPMG\github\X class\10. Stream-Files-Directories\Win-Forms-Project\e-School-Register\e-School-Register-2\obj\Debug\net6.0-windows\ref\e-School-Register-2.dll

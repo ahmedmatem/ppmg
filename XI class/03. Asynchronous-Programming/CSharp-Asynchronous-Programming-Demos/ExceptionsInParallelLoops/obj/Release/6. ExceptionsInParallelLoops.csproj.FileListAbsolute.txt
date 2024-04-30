@@ -1,0 +1,5 @@
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ExceptionsInParallelLoops\bin\Release\ExceptionsInParallelLoops.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ExceptionsInParallelLoops\bin\Release\ExceptionsInParallelLoops.pdb
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ExceptionsInParallelLoops\obj\Release\6. ExceptionsInParallelLoops.csprojResolveAssemblyReference.cache
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ExceptionsInParallelLoops\obj\Release\ExceptionsInParallelLoops.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ExceptionsInParallelLoops\obj\Release\ExceptionsInParallelLoops.pdb

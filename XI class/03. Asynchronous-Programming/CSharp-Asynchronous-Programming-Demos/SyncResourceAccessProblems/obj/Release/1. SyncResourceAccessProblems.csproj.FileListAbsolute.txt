@@ -1,0 +1,6 @@
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\SyncResourceAccessProblems\bin\Release\SyncResourceAccessProblems.exe.config
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\SyncResourceAccessProblems\bin\Release\SyncResourceAccessProblems.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\SyncResourceAccessProblems\bin\Release\SyncResourceAccessProblems.pdb
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\SyncResourceAccessProblems\obj\Release\1. SyncResourceAccessProblems.csprojResolveAssemblyReference.cache
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\SyncResourceAccessProblems\obj\Release\SyncResourceAccessProblems.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\SyncResourceAccessProblems\obj\Release\SyncResourceAccessProblems.pdb

@@ -1,0 +1,15 @@
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\03.Sum\bin\Debug\net6.0\03.Sum.exe
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\03.Sum\bin\Debug\net6.0\03.Sum.deps.json
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\03.Sum\bin\Debug\net6.0\03.Sum.runtimeconfig.json
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\03.Sum\bin\Debug\net6.0\03.Sum.dll
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\03.Sum\bin\Debug\net6.0\03.Sum.pdb
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\03.Sum\obj\Debug\net6.0\03.Sum.GeneratedMSBuildEditorConfig.editorconfig
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\03.Sum\obj\Debug\net6.0\03.Sum.AssemblyInfoInputs.cache
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\03.Sum\obj\Debug\net6.0\03.Sum.AssemblyInfo.cs
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\03.Sum\obj\Debug\net6.0\03.Sum.csproj.CoreCompileInputs.cache
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\03.Sum\obj\Debug\net6.0\03.Sum.sourcelink.json
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\03.Sum\obj\Debug\net6.0\03.Sum.dll
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\03.Sum\obj\Debug\net6.0\refint\03.Sum.dll
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\03.Sum\obj\Debug\net6.0\03.Sum.pdb
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\03.Sum\obj\Debug\net6.0\03.Sum.genruntimeconfig.cache
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\03.Sum\obj\Debug\net6.0\ref\03.Sum.dll

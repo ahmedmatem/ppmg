@@ -1,0 +1,6 @@
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\SyncProgrammingProblems\bin\Release\SyncProgrammingProblems.exe.config
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\SyncProgrammingProblems\bin\Release\SyncProgrammingProblems.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\SyncProgrammingProblems\bin\Release\SyncProgrammingProblems.pdb
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\SyncProgrammingProblems\obj\Release\2. SyncProgrammingProblems.csprojResolveAssemblyReference.cache
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\SyncProgrammingProblems\obj\Release\SyncProgrammingProblems.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\SyncProgrammingProblems\obj\Release\SyncProgrammingProblems.pdb

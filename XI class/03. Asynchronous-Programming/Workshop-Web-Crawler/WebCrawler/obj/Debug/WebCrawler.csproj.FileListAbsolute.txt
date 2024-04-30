@@ -1,0 +1,7 @@
+F:\PPMG\Exercises\XI_class\Asynchronous-Programming\Workshop-Web-Crawler\WebCrawler\bin\Debug\WebCrawlerInClass.exe.config
+F:\PPMG\Exercises\XI_class\Asynchronous-Programming\Workshop-Web-Crawler\WebCrawler\bin\Debug\WebCrawlerInClass.exe
+F:\PPMG\Exercises\XI_class\Asynchronous-Programming\Workshop-Web-Crawler\WebCrawler\bin\Debug\WebCrawlerInClass.pdb
+F:\PPMG\Exercises\XI_class\Asynchronous-Programming\Workshop-Web-Crawler\WebCrawler\obj\Debug\WebCrawler.csproj.AssemblyReference.cache
+F:\PPMG\Exercises\XI_class\Asynchronous-Programming\Workshop-Web-Crawler\WebCrawler\obj\Debug\WebCrawler.csproj.CoreCompileInputs.cache
+F:\PPMG\Exercises\XI_class\Asynchronous-Programming\Workshop-Web-Crawler\WebCrawler\obj\Debug\WebCrawlerInClass.exe
+F:\PPMG\Exercises\XI_class\Asynchronous-Programming\Workshop-Web-Crawler\WebCrawler\obj\Debug\WebCrawlerInClass.pdb

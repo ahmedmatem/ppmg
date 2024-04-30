@@ -1,0 +1,5 @@
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ParallelForLocalVariablesCalculatingSubsetSums\bin\Debug\ParallelForLocalVariablesCalculatingSubsetSums.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ParallelForLocalVariablesCalculatingSubsetSums\bin\Debug\ParallelForLocalVariablesCalculatingSubsetSums.pdb
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ParallelForLocalVariablesCalculatingSubsetSums\obj\Debug\5. ParallelForLocalVariablesCalculatingSubsetSums.csprojResolveAssemblyReference.cache
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ParallelForLocalVariablesCalculatingSubsetSums\obj\Debug\ParallelForLocalVariablesCalculatingSubsetSums.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ParallelForLocalVariablesCalculatingSubsetSums\obj\Debug\ParallelForLocalVariablesCalculatingSubsetSums.pdb

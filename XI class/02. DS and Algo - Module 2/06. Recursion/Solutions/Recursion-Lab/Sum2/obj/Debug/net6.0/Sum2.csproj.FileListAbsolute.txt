@@ -1,0 +1,15 @@
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Sum2\bin\Debug\net6.0\Sum2.exe
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Sum2\bin\Debug\net6.0\Sum2.deps.json
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Sum2\bin\Debug\net6.0\Sum2.runtimeconfig.json
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Sum2\bin\Debug\net6.0\Sum2.dll
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Sum2\bin\Debug\net6.0\Sum2.pdb
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Sum2\obj\Debug\net6.0\Sum2.GeneratedMSBuildEditorConfig.editorconfig
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Sum2\obj\Debug\net6.0\Sum2.AssemblyInfoInputs.cache
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Sum2\obj\Debug\net6.0\Sum2.AssemblyInfo.cs
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Sum2\obj\Debug\net6.0\Sum2.csproj.CoreCompileInputs.cache
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Sum2\obj\Debug\net6.0\Sum2.sourcelink.json
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Sum2\obj\Debug\net6.0\Sum2.dll
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Sum2\obj\Debug\net6.0\refint\Sum2.dll
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Sum2\obj\Debug\net6.0\Sum2.pdb
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Sum2\obj\Debug\net6.0\Sum2.genruntimeconfig.cache
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Sum2\obj\Debug\net6.0\ref\Sum2.dll

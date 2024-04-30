@@ -1,0 +1,15 @@
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Recursion-Path\bin\Debug\net6.0\Recursion-Path.exe
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Recursion-Path\bin\Debug\net6.0\Recursion-Path.deps.json
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Recursion-Path\bin\Debug\net6.0\Recursion-Path.runtimeconfig.json
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Recursion-Path\bin\Debug\net6.0\Recursion-Path.dll
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Recursion-Path\bin\Debug\net6.0\Recursion-Path.pdb
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Recursion-Path\obj\Debug\net6.0\Recursion-Path.GeneratedMSBuildEditorConfig.editorconfig
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Recursion-Path\obj\Debug\net6.0\Recursion-Path.AssemblyInfoInputs.cache
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Recursion-Path\obj\Debug\net6.0\Recursion-Path.AssemblyInfo.cs
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Recursion-Path\obj\Debug\net6.0\Recursion-Path.csproj.CoreCompileInputs.cache
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Recursion-Path\obj\Debug\net6.0\Recursion-Path.sourcelink.json
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Recursion-Path\obj\Debug\net6.0\Recursion-Path.dll
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Recursion-Path\obj\Debug\net6.0\refint\Recursion-Path.dll
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Recursion-Path\obj\Debug\net6.0\Recursion-Path.pdb
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Recursion-Path\obj\Debug\net6.0\Recursion-Path.genruntimeconfig.cache
+F:\PPMG\github\XI class\02. DS and Algo - Module 2\06. Recursion\Solutions\Recursion-Lab\Recursion-Path\obj\Debug\net6.0\ref\Recursion-Path.dll

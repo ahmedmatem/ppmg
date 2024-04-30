@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\PPMG\\github\\XI class\\02. DS and Algo - Module 2\\06. Recursion\\Solutions\\Recursion-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58C1EF-55D3-466B-A078-350DE4BE9388}|Sum2\\Sum2.csproj|f:\\ppmg\\github\\xi class\\02. ds and algo - module 2\\06. recursion\\solutions\\recursion-lab\\sum2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58C1EF-55D3-466B-A078-350DE4BE9388}|Sum2\\Sum2.csproj|solutionrelative:sum2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\PPMG\\github\\XI class\\02. DS and Algo - Module 2\\06. Recursion\\Solutions\\Recursion-Lab\\Sum2\\Program.cs",
+              "RelativeDocumentMoniker": "Sum2\\Program.cs",
+              "ToolTip": "F:\\PPMG\\github\\XI class\\02. DS and Algo - Module 2\\06. Recursion\\Solutions\\Recursion-Lab\\Sum2\\Program.cs",
+              "RelativeToolTip": "Sum2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T09:15:21.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
