@@ -166,10 +166,12 @@
             // comboBoxStudentsClass
             // 
             comboBoxStudentsClass.FormattingEnabled = true;
+            comboBoxStudentsClass.Items.AddRange(new object[] { "10а", "10б", "10в", "10г" });
             comboBoxStudentsClass.Location = new Point(63, 3);
             comboBoxStudentsClass.Name = "comboBoxStudentsClass";
             comboBoxStudentsClass.Size = new Size(97, 28);
             comboBoxStudentsClass.TabIndex = 1;
+            comboBoxStudentsClass.SelectedIndexChanged += OnClassChanged;
             // 
             // label5
             // 
@@ -184,7 +186,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1330, 715);
+            ClientSize = new Size(940, 393);
             Controls.Add(panelClass);
             Controls.Add(panelInput);
             Name = "Form1";

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("e-School-Register")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f7ea4359a7916feb2d1a40c304ba949e9c19d2b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6685c0c48fcfe947aec3a06329cb4bfbe040eee")]
 [assembly: System.Reflection.AssemblyProductAttribute("e-School-Register")]
 [assembly: System.Reflection.AssemblyTitleAttribute("e-School-Register")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

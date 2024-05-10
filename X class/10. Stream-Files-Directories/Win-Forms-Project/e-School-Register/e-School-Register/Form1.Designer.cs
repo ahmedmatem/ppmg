@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             panelInput = new Panel();
+            richTextBoxStudentMarks = new RichTextBox();
             buttonCancel = new Button();
             buttonSave = new Button();
             textBoxFullName = new TextBox();
@@ -41,7 +42,6 @@
             listBoxStudents = new ListBox();
             comboBoxStudentClass = new ComboBox();
             label5 = new Label();
-            richTextBoxStudentMarks = new RichTextBox();
             panelInput.SuspendLayout();
             panelClass.SuspendLayout();
             SuspendLayout();
@@ -61,6 +61,14 @@
             panelInput.Name = "panelInput";
             panelInput.Size = new Size(490, 468);
             panelInput.TabIndex = 0;
+            // 
+            // richTextBoxStudentMarks
+            // 
+            richTextBoxStudentMarks.Location = new Point(64, 137);
+            richTextBoxStudentMarks.Name = "richTextBoxStudentMarks";
+            richTextBoxStudentMarks.Size = new Size(362, 246);
+            richTextBoxStudentMarks.TabIndex = 9;
+            richTextBoxStudentMarks.Text = "";
             // 
             // buttonCancel
             // 
@@ -153,6 +161,8 @@
             listBoxStudents.Name = "listBoxStudents";
             listBoxStudents.Size = new Size(444, 384);
             listBoxStudents.TabIndex = 2;
+            listBoxStudents.SelectedIndexChanged += listBoxStudents_SelectedIndexChanged;
+            listBoxStudents.DoubleClick += StudentsListDoubleClick;
             // 
             // comboBoxStudentClass
             // 
@@ -163,6 +173,7 @@
             comboBoxStudentClass.Size = new Size(99, 28);
             comboBoxStudentClass.TabIndex = 1;
             comboBoxStudentClass.Text = "10а";
+            comboBoxStudentClass.SelectedIndexChanged += OnClassChanged;
             // 
             // label5
             // 
@@ -173,19 +184,11 @@
             label5.TabIndex = 0;
             label5.Text = "Клас";
             // 
-            // richTextBoxStudentMarks
-            // 
-            richTextBoxStudentMarks.Location = new Point(64, 137);
-            richTextBoxStudentMarks.Name = "richTextBoxStudentMarks";
-            richTextBoxStudentMarks.Size = new Size(362, 246);
-            richTextBoxStudentMarks.TabIndex = 9;
-            richTextBoxStudentMarks.Text = "";
-            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1326, 698);
+            ClientSize = new Size(1041, 495);
             Controls.Add(panelClass);
             Controls.Add(panelInput);
             Name = "Form1";

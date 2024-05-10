@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "F:\\PPMG\\github\\X class\\10. Stream-Files-Directories\\Win-Forms-Project\\e-School-Register\\e-School-Register\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3B5C696-BDFD-48B5-B78A-0FEFDCBA1D7A}|e-School-Register.csproj|f:\\ppmg\\github\\x class\\10. stream-files-directories\\win-forms-project\\e-school-register\\e-school-register\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F3B5C696-BDFD-48B5-B78A-0FEFDCBA1D7A}|e-School-Register.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F3B5C696-BDFD-48B5-B78A-0FEFDCBA1D7A}|e-School-Register.csproj|F:\\PPMG\\github\\X class\\10. Stream-Files-Directories\\Win-Forms-Project\\e-School-Register\\e-School-Register\\students_10\u0433.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F3B5C696-BDFD-48B5-B78A-0FEFDCBA1D7A}|e-School-Register.csproj|solutionrelative:students_10\u0433.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3B5C696-BDFD-48B5-B78A-0FEFDCBA1D7A}|e-School-Register.csproj|f:\\ppmg\\github\\x class\\10. stream-files-directories\\win-forms-project\\e-school-register\\e-school-register\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3B5C696-BDFD-48B5-B78A-0FEFDCBA1D7A}|e-School-Register.csproj|F:\\PPMG\\github\\X class\\10. Stream-Files-Directories\\Win-Forms-Project\\e-School-Register\\e-School-Register\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3B5C696-BDFD-48B5-B78A-0FEFDCBA1D7A}|e-School-Register.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3B5C696-BDFD-48B5-B78A-0FEFDCBA1D7A}|e-School-Register.csproj|f:\\ppmg\\github\\x class\\10. stream-files-directories\\win-forms-project\\e-school-register\\e-school-register\\students_10\u0431.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F3B5C696-BDFD-48B5-B78A-0FEFDCBA1D7A}|e-School-Register.csproj|solutionrelative:students_10\u0431.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{F3B5C696-BDFD-48B5-B78A-0FEFDCBA1D7A}|e-School-Register.csproj|F:\\PPMG\\github\\X class\\10. Stream-Files-Directories\\Win-Forms-Project\\e-School-Register\\e-School-Register\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3B5C696-BDFD-48B5-B78A-0FEFDCBA1D7A}|e-School-Register.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B5C696-BDFD-48B5-B78A-0FEFDCBA1D7A}|e-School-Register.csproj|F:\\PPMG\\github\\X class\\10. Stream-Files-Directories\\Win-Forms-Project\\e-School-Register\\e-School-Register\\students_10\u0432.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F3B5C696-BDFD-48B5-B78A-0FEFDCBA1D7A}|e-School-Register.csproj|solutionrelative:students_10\u0432.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,16 +42,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "students_10\u0431.txt",
-              "DocumentMoniker": "F:\\PPMG\\github\\X class\\10. Stream-Files-Directories\\Win-Forms-Project\\e-School-Register\\e-School-Register\\students_10\u0431.txt",
-              "RelativeDocumentMoniker": "students_10\u0431.txt",
-              "ToolTip": "F:\\PPMG\\github\\X class\\10. Stream-Files-Directories\\Win-Forms-Project\\e-School-Register\\e-School-Register\\students_10\u0431.txt",
-              "RelativeToolTip": "students_10\u0431.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "DocumentIndex": 0,
+              "Title": "students_10\u0433.txt",
+              "DocumentMoniker": "F:\\PPMG\\github\\X class\\10. Stream-Files-Directories\\Win-Forms-Project\\e-School-Register\\e-School-Register\\students_10\u0433.txt",
+              "RelativeDocumentMoniker": "students_10\u0433.txt",
+              "ToolTip": "F:\\PPMG\\github\\X class\\10. Stream-Files-Directories\\Win-Forms-Project\\e-School-Register\\e-School-Register\\students_10\u0433.txt",
+              "RelativeToolTip": "students_10\u0433.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-04-23T10:32:48.067Z",
+              "WhenOpened": "2024-05-07T10:04:14.45Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "students_10\u0432.txt",
+              "DocumentMoniker": "F:\\PPMG\\github\\X class\\10. Stream-Files-Directories\\Win-Forms-Project\\e-School-Register\\e-School-Register\\students_10\u0432.txt",
+              "RelativeDocumentMoniker": "students_10\u0432.txt",
+              "ToolTip": "F:\\PPMG\\github\\X class\\10. Stream-Files-Directories\\Win-Forms-Project\\e-School-Register\\e-School-Register\\students_10\u0432.txt",
+              "RelativeToolTip": "students_10\u0432.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-07T10:04:13.156Z"
             },
             {
               "$type": "Document",
@@ -57,14 +73,14 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "F:\\PPMG\\github\\X class\\10. Stream-Files-Directories\\Win-Forms-Project\\e-School-Register\\e-School-Register\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBUAAAAnAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAQwEoAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T10:14:54.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "F:\\PPMG\\github\\X class\\10. Stream-Files-Directories\\Win-Forms-Project\\e-School-Register\\e-School-Register\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
