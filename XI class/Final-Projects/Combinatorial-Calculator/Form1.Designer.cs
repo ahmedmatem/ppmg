@@ -50,13 +50,13 @@
             buttonExcl = new Button();
             buttonZero = new Button();
             buttonEmpty = new Button();
-            label1 = new Label();
+            labelResult = new Label();
             SuspendLayout();
             // 
             // textBoxDisplay
             // 
             textBoxDisplay.Font = new Font("Segoe UI", 16F);
-            textBoxDisplay.Location = new Point(266, 261);
+            textBoxDisplay.Location = new Point(21, 53);
             textBoxDisplay.Multiline = true;
             textBoxDisplay.Name = "textBoxDisplay";
             textBoxDisplay.Size = new Size(258, 75);
@@ -65,7 +65,7 @@
             // buttonClear
             // 
             buttonClear.BackColor = Color.White;
-            buttonClear.Location = new Point(266, 342);
+            buttonClear.Location = new Point(21, 134);
             buttonClear.Name = "buttonClear";
             buttonClear.Size = new Size(60, 60);
             buttonClear.TabIndex = 1;
@@ -78,7 +78,7 @@
             buttonPower.BackColor = Color.White;
             buttonPower.BackgroundImage = (Image)resources.GetObject("buttonPower.BackgroundImage");
             buttonPower.BackgroundImageLayout = ImageLayout.Center;
-            buttonPower.Location = new Point(332, 342);
+            buttonPower.Location = new Point(87, 134);
             buttonPower.Name = "buttonPower";
             buttonPower.Size = new Size(60, 60);
             buttonPower.TabIndex = 2;
@@ -90,7 +90,7 @@
             buttonBinom.BackColor = Color.White;
             buttonBinom.BackgroundImage = (Image)resources.GetObject("buttonBinom.BackgroundImage");
             buttonBinom.BackgroundImageLayout = ImageLayout.Center;
-            buttonBinom.Location = new Point(398, 342);
+            buttonBinom.Location = new Point(153, 134);
             buttonBinom.Name = "buttonBinom";
             buttonBinom.Size = new Size(60, 60);
             buttonBinom.TabIndex = 3;
@@ -101,7 +101,7 @@
             buttonBack.BackColor = Color.White;
             buttonBack.BackgroundImage = (Image)resources.GetObject("buttonBack.BackgroundImage");
             buttonBack.BackgroundImageLayout = ImageLayout.Center;
-            buttonBack.Location = new Point(464, 342);
+            buttonBack.Location = new Point(219, 134);
             buttonBack.Name = "buttonBack";
             buttonBack.Size = new Size(60, 60);
             buttonBack.TabIndex = 4;
@@ -112,16 +112,17 @@
             buttonComb.BackColor = Color.White;
             buttonComb.BackgroundImage = (Image)resources.GetObject("buttonComb.BackgroundImage");
             buttonComb.BackgroundImageLayout = ImageLayout.Center;
-            buttonComb.Location = new Point(464, 408);
+            buttonComb.Location = new Point(219, 200);
             buttonComb.Name = "buttonComb";
             buttonComb.Size = new Size(60, 60);
             buttonComb.TabIndex = 8;
             buttonComb.UseVisualStyleBackColor = false;
+            buttonComb.Click += buttonComb_Click;
             // 
             // buttonNine
             // 
             buttonNine.BackColor = Color.White;
-            buttonNine.Location = new Point(398, 408);
+            buttonNine.Location = new Point(153, 200);
             buttonNine.Name = "buttonNine";
             buttonNine.Size = new Size(60, 60);
             buttonNine.TabIndex = 7;
@@ -132,7 +133,7 @@
             // buttonEight
             // 
             buttonEight.BackColor = Color.White;
-            buttonEight.Location = new Point(332, 408);
+            buttonEight.Location = new Point(87, 200);
             buttonEight.Name = "buttonEight";
             buttonEight.Size = new Size(60, 60);
             buttonEight.TabIndex = 6;
@@ -143,7 +144,7 @@
             // buttonSeven
             // 
             buttonSeven.BackColor = Color.White;
-            buttonSeven.Location = new Point(266, 408);
+            buttonSeven.Location = new Point(21, 200);
             buttonSeven.Name = "buttonSeven";
             buttonSeven.Size = new Size(60, 60);
             buttonSeven.TabIndex = 5;
@@ -156,7 +157,7 @@
             buttonVar.BackColor = Color.White;
             buttonVar.BackgroundImage = (Image)resources.GetObject("buttonVar.BackgroundImage");
             buttonVar.BackgroundImageLayout = ImageLayout.Center;
-            buttonVar.Location = new Point(464, 474);
+            buttonVar.Location = new Point(219, 266);
             buttonVar.Name = "buttonVar";
             buttonVar.Size = new Size(60, 60);
             buttonVar.TabIndex = 12;
@@ -165,7 +166,7 @@
             // buttonSix
             // 
             buttonSix.BackColor = Color.White;
-            buttonSix.Location = new Point(398, 474);
+            buttonSix.Location = new Point(153, 266);
             buttonSix.Name = "buttonSix";
             buttonSix.Size = new Size(60, 60);
             buttonSix.TabIndex = 11;
@@ -176,7 +177,7 @@
             // buttonFive
             // 
             buttonFive.BackColor = Color.White;
-            buttonFive.Location = new Point(332, 474);
+            buttonFive.Location = new Point(87, 266);
             buttonFive.Name = "buttonFive";
             buttonFive.Size = new Size(60, 60);
             buttonFive.TabIndex = 10;
@@ -187,7 +188,7 @@
             // buttonFour
             // 
             buttonFour.BackColor = Color.White;
-            buttonFour.Location = new Point(266, 474);
+            buttonFour.Location = new Point(21, 266);
             buttonFour.Name = "buttonFour";
             buttonFour.Size = new Size(60, 60);
             buttonFour.TabIndex = 9;
@@ -200,7 +201,7 @@
             buttonPerm.BackColor = Color.White;
             buttonPerm.BackgroundImage = (Image)resources.GetObject("buttonPerm.BackgroundImage");
             buttonPerm.BackgroundImageLayout = ImageLayout.Center;
-            buttonPerm.Location = new Point(464, 540);
+            buttonPerm.Location = new Point(219, 332);
             buttonPerm.Name = "buttonPerm";
             buttonPerm.Size = new Size(60, 60);
             buttonPerm.TabIndex = 16;
@@ -209,18 +210,19 @@
             // buttonThree
             // 
             buttonThree.BackColor = Color.White;
-            buttonThree.Location = new Point(398, 540);
+            buttonThree.Location = new Point(153, 332);
             buttonThree.Name = "buttonThree";
             buttonThree.Size = new Size(60, 60);
             buttonThree.TabIndex = 15;
             buttonThree.Tag = "Digit";
             buttonThree.Text = "3";
             buttonThree.UseVisualStyleBackColor = false;
+            buttonThree.Click += buttonThree_Click;
             // 
             // buttonTwo
             // 
             buttonTwo.BackColor = Color.White;
-            buttonTwo.Location = new Point(332, 540);
+            buttonTwo.Location = new Point(87, 332);
             buttonTwo.Name = "buttonTwo";
             buttonTwo.Size = new Size(60, 60);
             buttonTwo.TabIndex = 14;
@@ -231,7 +233,7 @@
             // buttonOne
             // 
             buttonOne.BackColor = Color.White;
-            buttonOne.Location = new Point(266, 540);
+            buttonOne.Location = new Point(21, 332);
             buttonOne.Name = "buttonOne";
             buttonOne.Size = new Size(60, 60);
             buttonOne.TabIndex = 13;
@@ -242,7 +244,7 @@
             // buttonEqual
             // 
             buttonEqual.BackColor = Color.White;
-            buttonEqual.Location = new Point(464, 606);
+            buttonEqual.Location = new Point(219, 398);
             buttonEqual.Name = "buttonEqual";
             buttonEqual.Size = new Size(60, 60);
             buttonEqual.TabIndex = 20;
@@ -253,7 +255,7 @@
             // buttonExcl
             // 
             buttonExcl.BackColor = Color.White;
-            buttonExcl.Location = new Point(398, 606);
+            buttonExcl.Location = new Point(153, 398);
             buttonExcl.Name = "buttonExcl";
             buttonExcl.Size = new Size(60, 60);
             buttonExcl.TabIndex = 19;
@@ -263,7 +265,7 @@
             // buttonZero
             // 
             buttonZero.BackColor = Color.White;
-            buttonZero.Location = new Point(332, 606);
+            buttonZero.Location = new Point(87, 398);
             buttonZero.Name = "buttonZero";
             buttonZero.Size = new Size(60, 60);
             buttonZero.TabIndex = 18;
@@ -275,27 +277,26 @@
             // 
             buttonEmpty.BackColor = Color.White;
             buttonEmpty.Enabled = false;
-            buttonEmpty.Location = new Point(266, 606);
+            buttonEmpty.Location = new Point(21, 398);
             buttonEmpty.Name = "buttonEmpty";
             buttonEmpty.Size = new Size(60, 60);
             buttonEmpty.TabIndex = 17;
             buttonEmpty.UseVisualStyleBackColor = false;
             // 
-            // label1
+            // labelResult
             // 
-            label1.AutoSize = true;
-            label1.Location = new Point(474, 227);
-            label1.Name = "label1";
-            label1.Size = new Size(50, 20);
-            label1.TabIndex = 21;
-            label1.Text = "label1";
+            labelResult.AutoSize = true;
+            labelResult.Location = new Point(21, 18);
+            labelResult.Name = "labelResult";
+            labelResult.Size = new Size(0, 20);
+            labelResult.TabIndex = 21;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(939, 729);
-            Controls.Add(label1);
+            ClientSize = new Size(304, 479);
+            Controls.Add(labelResult);
             Controls.Add(buttonEqual);
             Controls.Add(buttonExcl);
             Controls.Add(buttonZero);
@@ -347,6 +348,6 @@
         private Button buttonExcl;
         private Button buttonZero;
         private Button buttonEmpty;
-        private Label label1;
+        private Label labelResult;
     }
 }

@@ -1,5 +1,7 @@
 using System.Numerics;
 
+#nullable disable
+
 namespace Combinatorial_Calculator
 {
     public partial class Form1 : Form
@@ -7,7 +9,7 @@ namespace Combinatorial_Calculator
         private string firstOperand = string.Empty;
         private string secondOperand = string.Empty;
         private bool isFirstOperand = true;
-        private string operation = string.Empty;
+        private OperationType operation = OperationType.None;
 
         public Form1()
         {
@@ -51,38 +53,47 @@ namespace Combinatorial_Calculator
             textBoxDisplay.Text = string.Empty;
             firstOperand = string.Empty;
             secondOperand = string.Empty;
-            operation = string.Empty;
+            operation = OperationType.None;
             isFirstOperand = true;
         }
 
         private void buttonPower_Click(object sender, EventArgs e)
         {
-            operation = "power";
+            operation = OperationType.Power;
             isFirstOperand = false;
             textBoxDisplay.Text += " ^ ";
         }
 
         private void buttonEqual_Click(object sender, EventArgs e)
         {
-            textBoxDisplay.Clear();
             string result = string.Empty;
-            switch(operation)
+            switch (operation)
             {
-                case "power":
-                    BigInteger firstBigOperand = BigInteger.Parse(firstOperand);
-                    BigInteger secondBigOperand = BigInteger.Parse(secondOperand);
-                    BigInteger bigResult = BigInteger.One;
-                    for (int i = 1; i <= secondBigOperand; i++)
-                    {
-                        bigResult *= firstBigOperand;
-                    }
-                    result = bigResult.ToString();
+                case OperationType.Power:
+                    result = Calculator.Power(firstOperand, secondOperand);
+                    break;
+                case OperationType.Factoriel:
+
                     break;
                 default:
                     break;
             }
 
+            labelResult.Text = textBoxDisplay.Text;
+            textBoxDisplay.Clear();
             textBoxDisplay.Text = result.ToString();
+        }
+
+        private void buttonThree_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonComb_Click(object sender, EventArgs e)
+        {
+            operation = OperationType.Combination;
+            isFirstOperand = false;
+            textBoxDisplay.Text += " <comb> ";
         }
     }
 }
