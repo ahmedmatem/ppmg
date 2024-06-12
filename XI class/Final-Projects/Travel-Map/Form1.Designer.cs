@@ -93,18 +93,16 @@
             labelDistance.AutoSize = true;
             labelDistance.Location = new Point(17, 533);
             labelDistance.Name = "labelDistance";
-            labelDistance.Size = new Size(50, 20);
+            labelDistance.Size = new Size(0, 20);
             labelDistance.TabIndex = 7;
-            labelDistance.Text = "label3";
             // 
             // labelPath
             // 
             labelPath.AutoSize = true;
             labelPath.Location = new Point(17, 567);
             labelPath.Name = "labelPath";
-            labelPath.Size = new Size(50, 20);
+            labelPath.Size = new Size(0, 20);
             labelPath.TabIndex = 8;
-            labelPath.Text = "label3";
             // 
             // label3
             // 

@@ -55,6 +55,7 @@ namespace Combinatorial_Calculator
             secondOperand = string.Empty;
             operation = OperationType.None;
             isFirstOperand = true;
+            labelResult.Text = string.Empty;
         }
 
         private void buttonPower_Click(object sender, EventArgs e)
@@ -73,7 +74,7 @@ namespace Combinatorial_Calculator
                     result = Calculator.Power(firstOperand, secondOperand);
                     break;
                 case OperationType.Factoriel:
-
+                    result = Calculator.Factoriel(firstOperand);
                     break;
                 default:
                     break;
@@ -94,6 +95,13 @@ namespace Combinatorial_Calculator
             operation = OperationType.Combination;
             isFirstOperand = false;
             textBoxDisplay.Text += " <comb> ";
+        }
+
+        private void buttonExcl_Click(object sender, EventArgs e)
+        {
+            operation = OperationType.Factoriel;
+            textBoxDisplay.Text += "!";
+            buttonEqual_Click(sender, e);
         }
     }
 }

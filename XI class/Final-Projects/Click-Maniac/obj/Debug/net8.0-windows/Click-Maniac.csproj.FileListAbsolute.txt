@@ -1,0 +1,17 @@
+F:\PPMG\github\XI class\Final-Projects\Click-Maniac\bin\Debug\net8.0-windows\Click-Maniac.exe
+F:\PPMG\github\XI class\Final-Projects\Click-Maniac\bin\Debug\net8.0-windows\Click-Maniac.deps.json
+F:\PPMG\github\XI class\Final-Projects\Click-Maniac\bin\Debug\net8.0-windows\Click-Maniac.runtimeconfig.json
+F:\PPMG\github\XI class\Final-Projects\Click-Maniac\bin\Debug\net8.0-windows\Click-Maniac.dll
+F:\PPMG\github\XI class\Final-Projects\Click-Maniac\bin\Debug\net8.0-windows\Click-Maniac.pdb
+F:\PPMG\github\XI class\Final-Projects\Click-Maniac\obj\Debug\net8.0-windows\Click_Maniac.Form1.resources
+F:\PPMG\github\XI class\Final-Projects\Click-Maniac\obj\Debug\net8.0-windows\Click-Maniac.csproj.GenerateResource.cache
+F:\PPMG\github\XI class\Final-Projects\Click-Maniac\obj\Debug\net8.0-windows\Click-Maniac.GeneratedMSBuildEditorConfig.editorconfig
+F:\PPMG\github\XI class\Final-Projects\Click-Maniac\obj\Debug\net8.0-windows\Click-Maniac.AssemblyInfoInputs.cache
+F:\PPMG\github\XI class\Final-Projects\Click-Maniac\obj\Debug\net8.0-windows\Click-Maniac.AssemblyInfo.cs
+F:\PPMG\github\XI class\Final-Projects\Click-Maniac\obj\Debug\net8.0-windows\Click-Maniac.csproj.CoreCompileInputs.cache
+F:\PPMG\github\XI class\Final-Projects\Click-Maniac\obj\Debug\net8.0-windows\Click-Maniac.sourcelink.json
+F:\PPMG\github\XI class\Final-Projects\Click-Maniac\obj\Debug\net8.0-windows\Click-Maniac.dll
+F:\PPMG\github\XI class\Final-Projects\Click-Maniac\obj\Debug\net8.0-windows\refint\Click-Maniac.dll
+F:\PPMG\github\XI class\Final-Projects\Click-Maniac\obj\Debug\net8.0-windows\Click-Maniac.pdb
+F:\PPMG\github\XI class\Final-Projects\Click-Maniac\obj\Debug\net8.0-windows\Click-Maniac.genruntimeconfig.cache
+F:\PPMG\github\XI class\Final-Projects\Click-Maniac\obj\Debug\net8.0-windows\ref\Click-Maniac.dll

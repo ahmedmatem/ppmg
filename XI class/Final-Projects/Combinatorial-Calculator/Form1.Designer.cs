@@ -261,6 +261,7 @@
             buttonExcl.TabIndex = 19;
             buttonExcl.Text = "!";
             buttonExcl.UseVisualStyleBackColor = false;
+            buttonExcl.Click += buttonExcl_Click;
             // 
             // buttonZero
             // 

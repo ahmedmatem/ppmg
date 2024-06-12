@@ -1,19 +1,25 @@
 ﻿namespace Travel_Map
 {
+#nullable disable
     public partial class Form1 : Form
     {
-        private Dictionary<int, string> cities = new Dictionary<int, string>()
+        private string source = string.Empty;
+        private string destination = string.Empty;
+        private int[] paths;
+        private int[] distance;
+
+        private Dictionary<string, int> cities = new Dictionary<string, int>()
         {
-            { 1, "София"},
-            { 2, "Пловдив"},
-            { 3, "Варна"},
-            { 4, "Бургас"},
-            { 5, "Русе"},
-            { 6, "Стара Загора"},
-            { 7, "Благоевград"},
-            { 8, "Велико Търново"},
-            { 9, "Плевен"},
-            { 10, "Разград"},
+            { "София", 1},
+            { "Пловдив", 2},
+            { "Варна", 3},
+            { "Бургас", 4},
+            { "Русе", 5},
+            { "Стара Загора", 6},
+            { "Благоевград", 7},
+            { "Велико Търново", 8},
+            { "Плевен", 9},
+            { "Разград", 10},
         };
 
         private int[,] map = new int[,]
@@ -39,7 +45,41 @@
 
         private void buttonCalculate_Click(object sender, EventArgs e)
         {
+            source = comboBoxFrom.SelectedItem.ToString();
+            destination = comboBoxTo.SelectedItem.ToString();
+            distance = new int[cities.Count + 1];
+            paths = Dijkstra.DijkstraAlgorithm(cities.Count, map, cities[source], distance);
 
+            var path = GetPath();
+            labelPath.Text = path.Track;
+            labelDistance.Text = path.Distance + "km";
+        }
+
+        private Path GetPath()
+        {
+            var result = new Path();
+            Stack<string> citiesOnTheReversedPath = new Stack<string>();
+
+            int destIndexOrigin = cities[destination];
+
+            do
+            {
+                citiesOnTheReversedPath.Push(destination);
+                int destinationIndex = cities[destination];
+                int prevNodeIndex = paths[destinationIndex];
+                destination = cities.First(c => c.Value == prevNodeIndex).Key;
+            } while (destination != source);
+
+            citiesOnTheReversedPath.Push(source);
+
+            while(citiesOnTheReversedPath.Count > 0)
+            {
+                result.Track += citiesOnTheReversedPath.Pop() + " --> ";
+            }
+            result.Track = result.Track.Trim(' ', '-', '>');
+
+            result.Distance = distance[destIndexOrigin].ToString();
+            return result;
         }
     }
 }

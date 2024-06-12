@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\PPMG\\github\\XI class\\Final-Projects\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CE0AB3-CED7-4F43-817B-73E351810A01}|Travel-Map\\Travel-Map.csproj|f:\\ppmg\\github\\xi class\\final-projects\\travel-map\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CE0AB3-CED7-4F43-817B-73E351810A01}|Travel-Map\\Travel-Map.csproj|solutionrelative:travel-map\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CE0AB3-CED7-4F43-817B-73E351810A01}|Travel-Map\\Travel-Map.csproj|f:\\ppmg\\github\\xi class\\final-projects\\travel-map\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B4CE0AB3-CED7-4F43-817B-73E351810A01}|Travel-Map\\Travel-Map.csproj|solutionrelative:travel-map\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,31 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "F:\\PPMG\\github\\XI class\\Final-Projects\\Travel-Map\\Form1.cs",
-              "RelativeDocumentMoniker": "Travel-Map\\Form1.cs",
-              "ToolTip": "F:\\PPMG\\github\\XI class\\Final-Projects\\Travel-Map\\Form1.cs",
-              "RelativeToolTip": "Travel-Map\\Form1.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAvwBYAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T09:29:32.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "F:\\PPMG\\github\\XI class\\Final-Projects\\Travel-Map\\Form1.cs",
-              "RelativeDocumentMoniker": "Travel-Map\\Form1.cs",
-              "ToolTip": "F:\\PPMG\\github\\XI class\\Final-Projects\\Travel-Map\\Form1.cs [Design]",
-              "RelativeToolTip": "Travel-Map\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T09:08:45.073Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -22,5 +22,16 @@ namespace Combinatorial_Calculator
             }
             return result.ToString();
         }
+
+        public static string Factoriel(string number)
+        {
+            BigInteger result = BigInteger.One;
+            BigInteger bigNumber = BigInteger.Parse(number);
+            for (int i = 2; i <= bigNumber; i++)
+            {
+                result *= i;
+            }
+            return result.ToString();
+        }
     }
 }
