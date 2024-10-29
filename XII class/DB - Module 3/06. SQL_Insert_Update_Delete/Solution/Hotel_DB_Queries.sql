@@ -90,6 +90,13 @@ CREATE TABLE Occupancies(
 
 --insert data
 
+INSERT INTO Employees (Id, FirstName, LastName, Title, Notes) 
+	 VALUES (1, 'Anna', 'Lee', 'Manager', 'Experienced in project management'),
+		   (2, 'Brian', 'Carter', 'Dev', 'Skilled in C# and SQL'),
+		   (3, 'Christina', 'Martinez', 'QA', 'Detail-oriented QA tester'),
+		   (4, 'David', 'Robinson', 'HR', 'Specialized in recruitment'),
+		   (5, 'Eva', 'Kim', 'Intern', 'Learning software development')
+
 -- insert into Customers
 INSERT INTO Customers (Id, FirstName, LastName, PhoneNumber, EmergencyName, EmergencyNumber, Notes) 
      VALUES (1, 'Emily', 'Jones', '5551234567', 'John Jones', '5557654321', 'NKA (No known allergies)'),
