@@ -1,0 +1,109 @@
+﻿namespace ClassDemo
+{
+    public class Car
+    {
+		// Полета
+
+		private int year;
+		private double fuelLevel;
+
+		// Свойства
+
+        public string Make { get; set; }
+        public string Model { get; set; }
+		public int Year
+		{
+			get { return year; }
+			set 
+			{ 
+				if(value >= 2000 && value <= DateTime.Now.Year)
+				{
+                    year = value;
+                }
+				else
+				{
+                    Console.WriteLine($"The year must be between 2000 and {DateTime.Now.Year}");
+				}
+			}
+		}
+
+        public double FuelLevel 
+		{
+			get { return fuelLevel; }
+			set
+			{
+				if(value > 0 && value < 60)
+				{
+					fuelLevel = value;
+				}
+				else
+				{
+                    Console.WriteLine($"Invalid fuel level {value}.");
+                    Console.WriteLine("Fuel level must be between 0 and 60.");
+				}
+			}
+		}
+
+        // Конструктори
+
+		public Car()
+		{
+			Make = "Unknown";
+			Model = "Unknown";
+			Year = 2000;
+			FuelLevel = 60; // full
+		}
+
+		public Car(string make, string model, int year)
+		{
+			Make = make;
+			Model = model;
+			Year = year;
+		}
+
+		public Car( string make, string model, int year, int fuelLevel)
+			: this(make, model, year)
+		{
+			FuelLevel = FuelLevel;
+		}
+
+		// Методи
+
+		public void Drive(double distance)
+		{
+			double fuelConsumed = distance * 0.1; // Пример: разход 0.1 литра на км
+			if (fuelConsumed <= fuelLevel)
+			{
+				fuelLevel -= fuelConsumed;
+                Console.WriteLine($"The car traveled {distance} km. Fuel left: {fuelLevel}");
+			}
+			else
+			{
+                Console.WriteLine("Insufficient fulel. Please refuel before setting off.");
+			}
+		}
+
+		public void Refuel(double fuelAmount)
+		{
+			if(fuelAmount + fuelLevel <= 60)
+			{
+				fuelLevel += fuelAmount;
+                Console.WriteLine($"You refuled with {fuelAmount} l. Current fule level: {fuelLevel}");
+			}
+			else
+			{
+                Console.WriteLine($"Too much fuel. Current fuel level: {fuelLevel}");
+			}
+		}
+
+		public void DisplayInfo()
+		{
+            Console.WriteLine($"Car Information");
+            Console.WriteLine("====================");
+            Console.WriteLine($"Make - {Make}");
+            Console.WriteLine($"Model - {Model}");
+            Console.WriteLine($"Year - {Year}");
+            Console.WriteLine($"Fuel level - {FuelLevel}");
+		}
+	}
+}
