@@ -1,4 +1,4 @@
-﻿namespace ClassDemo
+namespace ClassDemo
 {
     public class BankAccount
     {
