@@ -1,0 +1,15 @@
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\RestaurantMenu\bin\Debug\net8.0\RestaurantMenu.exe
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\RestaurantMenu\bin\Debug\net8.0\RestaurantMenu.deps.json
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\RestaurantMenu\bin\Debug\net8.0\RestaurantMenu.runtimeconfig.json
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\RestaurantMenu\bin\Debug\net8.0\RestaurantMenu.dll
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\RestaurantMenu\bin\Debug\net8.0\RestaurantMenu.pdb
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.GeneratedMSBuildEditorConfig.editorconfig
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.AssemblyInfoInputs.cache
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.AssemblyInfo.cs
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.csproj.CoreCompileInputs.cache
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.sourcelink.json
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.dll
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\RestaurantMenu\obj\Debug\net8.0\refint\RestaurantMenu.dll
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.pdb
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.genruntimeconfig.cache
+F:\PPMG\github\XI class\11. Абстрактни класове и интерфейси\Exercises\RestaurantMenu\obj\Debug\net8.0\ref\RestaurantMenu.dll
