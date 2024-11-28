@@ -1,3 +1,5 @@
+USE SoftUni
+GO
 
 SELECT * FROM Employees
 SELECT * FROM Departments
@@ -49,3 +51,20 @@ SELECT * FROM Employees
 	    ON e.ManagerID = m.EmployeeID
 	 WHERE e.ManagerID = 3 OR e.ManagerID = 7
   ORDER BY e.EmployeeID ASC
+
+USE Geography
+GO
+
+SELECT * FROM Mountains
+SELECT * FROM Countries
+SELECT * FROM Peaks
+SELECT * FROM MountainsCountries
+
+--06.
+	SELECT c.CountryCode, m.MountainRange, p.PeakName, p.Elevation
+	  FROM Countries c
+	  JOIN MountainsCountries mc ON c.CountryCode = mc.CountryCode
+	  JOIN Mountains m ON mc.MountainId = m.Id
+	  JOIN Peaks p ON p.MountainId = m.Id
+	 WHERE c.CountryCode = 'BG' AND p.Elevation > 2835
+  ORDER BY p.Elevation DESC
