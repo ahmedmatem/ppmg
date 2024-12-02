@@ -68,3 +68,11 @@ SELECT * FROM MountainsCountries
 	  JOIN Peaks p ON p.MountainId = m.Id
 	 WHERE c.CountryCode = 'BG' AND p.Elevation > 2835
   ORDER BY p.Elevation DESC
+
+  --07.
+  	SELECT TOP 5 c.CountryName, r.RiverName
+	  FROM Countries c
+	  LEFT OUTER JOIN CountriesRivers cr ON c.CountryCode = cr.CountryCode
+	  LEFT OUTER JOIN Rivers r ON r.Id = cr.RiverId
+	 WHERE c.ContinentCode = 'AF'
+  ORDER BY c.CountryName
