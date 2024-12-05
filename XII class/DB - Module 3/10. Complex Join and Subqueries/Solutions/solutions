@@ -1,0 +1,55 @@
+SELECT * FROM Departments
+SELECT * FROM Employees
+
+--01./with Subquery
+	SELECT e.FirstName, e.LastName
+	  FROM Employees e
+	 WHERE e.DepartmentId IN (
+		-- subquery: Get the ID of the deparment with name 'Finance'
+		SELECT d.Id
+		  FROM Departments d
+		 WHERE d.[Name] = 'Finance'
+	 )
+
+--01./with Joining tables
+	SELECT e.FirstName, e.LastName
+	  FROM Employees e
+	  JOIN Departments d ON e.DepartmentId = d.Id
+	 WHERE d.[Name] = 'Finance'
+
+--02.
+	SELECT e.FirstName, e.LastName, d.[Name] AS Department
+	  FROM Employees e
+	  JOIN Departments d ON e.DepartmentId = d.Id
+	 WHERE (d.[Name] = 'Sales' OR d.[Name] = 'Research and Development') AND e.Age <= 40
+  ORDER BY e.FirstName
+
+--03.
+	SELECT e.FirstName, e.Age, d.[Name] AS Department
+	  FROM Employees e
+	  JOIN Departments d ON e.DepartmentId = d.Id
+	 WHERE e.FirstName LIKE '%e%' AND d.[Name] != 'Research and Development'
+
+--04.
+	SELECT u.FirstName, u.LastName, p.[Name] AS ProductName, p.Price
+	  FROM Users u
+	  JOIN Orders o ON u.Id = o.UserId
+	  JOIN Products p ON p.Id = o.ProductId
+
+--05.
+	SELECT * FROM ProductTypes
+
+	SELECT u.FirstName, u.LastName, p.[Name] AS ProductName, p.Price
+	  FROM Users u
+	  JOIN Orders o ON u.Id = o.UserId
+	  JOIN Products p ON p.Id = o.ProductId
+	 WHERE p.TypeId IN (
+		SELECT pt.Id FROM ProductTypes pt WHERE pt.[Name] = 'Electronics'
+	 )
+
+	 SELECT u.FirstName, u.LastName, p.[Name] AS ProductName, p.Price
+	  FROM Users u
+	  JOIN Orders o ON u.Id = o.UserId
+	  JOIN Products p ON p.Id = o.ProductId
+	  JOIN ProductTypes pt ON pt.Id = p.TypeId
+	 WHERE pt.[Name] = 'Electronics'
