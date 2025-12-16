@@ -13,15 +13,22 @@ SELECT * FROM Continents
   GROUP BY m.[Name], p.[Name]
 
 --02.
-	SELECT 
-		c.[Name] AS Continent, 
-		MIN(p.[Name]) AS [Highest Peak Name], 
-		MAX(p.Height) AS [Highest Peak Elevation]
-	  FROM Mountains m
+WITH result (cName, pName, pHeight, rowNumber) AS (
+	SELECT c.[Name], p.[Name], p.Height, ROW_NUMBER() OVER 
+		 (
+			PARTITION BY c.Id
+			ORDER BY p.Height DESC
+		 ) AS rn
+	  FROM Continents c
+	  JOIN Mountains m ON c.Id = m.ContinentId
 	  JOIN Peaks p ON m.Id = p.MountainId
-	  JOIN Continents c ON c.Id = m.ContinentId
-  GROUP BY c.[Name]
-  ORDER BY [Highest Peak Elevation] DESC
+	)
+
+SELECT cName AS Continent, 
+	   pName AS 'Hightest Peak Name', 
+	   pHeight AS 'Hightest Peak Elevation'
+  FROM result
+  WHERE result.rowNumber = 1
 
 SELECT * FROM WizzardDeposits
 
