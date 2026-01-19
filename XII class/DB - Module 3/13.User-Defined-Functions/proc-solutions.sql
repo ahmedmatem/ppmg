@@ -1,4 +1,4 @@
--- Procedures
+﻿-- Procedures
 
 --1. Employees full name
 DROP PROC IF EXISTS EmployeeFullNameById
@@ -57,3 +57,27 @@ SELECT *
  SELECT COUNT(*)
    FROM Employees
   WHERE EmployeeID = 103333
+
+--Задача 3: Град на служител по Id
+
+DROP PROC IF EXISTS usp_EmployeeTownName
+ALTER PROC usp_EmployeeTownName(@empId INT)
+AS
+BEGIN
+	DECLARE @isEmpExists BIT
+	
+	SELECT @isEmpExists = COUNT(*)
+	  FROM Employees
+	 WHERE EmployeeID = @empId
+
+	IF(@isEmpExists = 0)
+		SELECT NULL
+	ELSE
+		SELECT e.FirstName, e.LastName, t.[Name] AS TownName
+		  FROM Employees e
+		  JOIN Addresses a ON e.AddressID = a.AddressID
+		  JOIN Towns t ON a.TownID = t.TownID
+		 WHERE e.EmployeeID = @empId
+END
+
+EXEC dbo.usp_EmployeeTownName @empId = 12
