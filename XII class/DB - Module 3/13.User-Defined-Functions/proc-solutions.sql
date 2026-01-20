@@ -81,3 +81,70 @@ BEGIN
 END
 
 EXEC dbo.usp_EmployeeTownName @empId = 12
+
+--Задача 4: Брой служители в отдел по име
+DROP PROC IF EXISTS usp_EmployeesNumberInDepartment
+ALTER PROC usp_EmployeesNumberInDepartment(@depName VARCHAR(50), @empCount INT OUTPUT)
+AS
+BEGIN
+	SELECT @empCount = COUNT(*)
+	  FROM Employees e
+	  JOIN Departments d ON e.DepartmentID = d.DepartmentID
+	 WHERE d.[Name] = @depName
+END
+
+DECLARE @empCountInDep INT
+EXEC usp_EmployeesNumberInDepartment 'Tool design', @empCountInDep OUTPUT
+SELECT @empCountInDep
+
+CREATE FUNCTION udf_EmployeesNumberInDepartment(@depName VARCHAR(50))
+RETURNS INT
+AS
+BEGIN
+	DECLARE @result INT
+
+	SELECT @result = COUNT(*)
+	  FROM Employees e
+	  JOIN Departments d ON e.DepartmentID = d.DepartmentID
+	 WHERE d.[Name] = @depName
+
+	 RETURN @result
+END
+
+SELECT [Name], dbo.udf_EmployeesNumberInDepartment([Name]) AS EmployeeName
+  FROM Departments
+
+--Задача 5: Обща сума заплати по DepartmentId
+DROP PROC IF EXISTS usp_TotalSalaryInDepartment
+CREATE PROC usp_TotalSalaryInDepartment(@depID INT, @total MONEY OUTPUT)
+AS
+BEGIN
+	DECLARE @haveEmployees INT
+
+	SELECT @haveEmployees = COUNT(*)
+	  FROM Employees
+	 WHERE DepartmentID = @depID
+
+	IF(@haveEmployees = 0) -- no emplyees
+		SET @total = 0
+	ELSE
+		SELECT @total = SUM(Salary)
+		  FROM Employees
+		 WHERE DepartmentID = @depID	
+END
+-- procedure usage
+DECLARE @totalSalary MONEY
+EXEC usp_TotalSalaryInDepartment 1200, @totalSalary OUTPUT
+SELECT @totalSalary AS 'Total Salary'
+
+--Задача 6: Брой участници в проект
+DROP PROC IF EXISTS usp_GetParticipantInProject
+CREATE PROC usp_GetParticipantInProject(@prID INT, @participants INT OUTPUT)
+AS
+	SELECT @participants = COUNT(*) 
+	  FROM EmployeesProjects
+	 WHERE ProjectID = @prID
+
+DECLARE @participants INT
+EXEC usp_GetParticipantInProject 1, @participants OUTPUT
+SELECT @participants AS [Participants Number]
