@@ -1,0 +1,16 @@
+CREATE TABLE [dbo].[Product] (
+[Id] INT IDENTITY (1, 1) NOT NULL,
+[Name] NVARCHAR (200) NULL,
+[Price] DECIMAL(10, 2) NOT NULL,
+[UnitType] NVARCHAR(50) NOT NULL CHECK (UnitType IN ('kilogram', 'liter', 'piece')));
+
+INSERT INTO [Product] (Name, Price, UnitType) VALUES
+('Apple', 1.50, 'kilogram'),
+('Blueberry', 2.50, 'kilogram'),
+('Carrot', 0.80, 'kilogram'),
+('Tomato', 4.60, 'kilogram'),
+('Cucumber', 3.20, 'kilogram'),
+('Yogurt', 4.25, 'liter'),
+('Mineral water', 0.90, 'liter'),
+('Avocado', 2.00, 'piece'),
+('Chocolate', 2.90, 'piece');
