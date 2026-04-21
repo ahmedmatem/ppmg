@@ -1,0 +1,70 @@
+-- CREATE DATABASE HealthDb
+-- GO
+-- USE HealthDb
+
+CREATE TABLE Roles(
+	RoleId INT PRIMARY KEY IDENTITY,
+	RoleName NVARCHAR(50) NOT NULL
+)
+
+INSERT INTO Roles(RoleName) 
+VALUES ('Admin'), ('Doctor')
+GO
+
+SELECT * FROM Roles
+GO
+
+CREATE TABLE Users(
+	UserId INT PRIMARY KEY IDENTITY,
+	Username NVARCHAR(50),
+	PasswordHash NVARCHAR(256),
+	RoleId INT FOREIGN KEY REFERENCES Roles(RoleId)
+)
+GO
+
+CREATE TABLE Doctors(
+	DoctorId INT PRIMARY KEY IDENTITY,
+	FirstName NVARCHAR(50) NOT NULL,
+	LastName NVARCHAR(50) NOT NULL,
+	Speciality NVARCHAR(100) NOT NULL,
+	Phone NVARCHAR(20),
+	UserId INT FOREIGN KEY REFERENCES Users(UserId)
+)
+GO
+
+CREATE TABLE Administrators(
+	AdminId INT PRIMARY KEY IDENTITY,
+	FirstName NVARCHAR(50) NOT NULL,
+	LastName NVARCHAR(50) NOT NULL,
+	Email NVARCHAR(100),
+	Phone NVARCHAR(20),
+	UserId INT FOREIGN KEY REFERENCES Users(UserId)
+)
+GO
+
+INSERT INTO Users(Username, PasswordHash, RoleId)
+VALUES ('sadmin', 'asdfasgasdf', 1)
+GO
+
+INSERT INTO Administrators(FirstName, LastName, UserId)
+VALUES ('Ahmed', 'Ahmed', 1)
+GO
+
+CREATE TABLE Patients(
+	PatientId INT PRIMARY KEY IDENTITY,
+	FirstName NVARCHAR(50) NOT NULL,
+	LastName NVARCHAR(50) NOT NULL,
+	PIN CHAR(10) NOT NULL,
+	Gender NVARCHAR(10),
+	Phone NVARCHAR(20)
+)
+GO
+
+CREATE TABLE Examonations(
+	ExaminationId INT PRIMARY KEY IDENTITY,
+	ExaminationDate DATE NOT NULL,
+	Condition NVARCHAR(200),
+	Treatment NVARCHAR(200),
+	PatientId INT FOREIGN KEY REFERENCES Patients(PatientId),
+	DoctorId INT FOREIGN KEY REFERENCES Doctors(DoctorId)
+)
