@@ -1,0 +1,65 @@
+{
+  "author": "Anton Trofymenko",
+  "bugs": {
+    "url": "https://github.com/r37r0m0d3l/header-range-parser/issues"
+  },
+  "contributors": [
+    {
+      "email": "r37r0m0d3l@protonmail.com",
+      "name": "Anton Trofymenko"
+    }
+  ],
+  "description": "Range header field string parser.",
+  "devDependencies": {
+    "@types/node": "^25.9.0",
+    "@typescript-eslint/eslint-plugin": "^8.59.4",
+    "@typescript-eslint/parser": "^8.59.4",
+    "esbuild": "^0.28.0",
+    "eslint": "^10.4.0",
+    "prettier": "^3.8.3",
+    "typescript": "^6.0.3"
+  },
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "engineStrict": true,
+  "exports": {
+    "types": "./dist/index.d.ts",
+    "import": "./dist/index.js",
+    "default": "./dist/index.js"
+  },
+  "files": [
+    "dist/index.d.ts",
+    "dist/index.js",
+    "dist/index.js.map"
+  ],
+  "homepage": "https://github.com/r37r0m0d3l/header-range-parser",
+  "keywords": [
+    "header",
+    "http",
+    "parser",
+    "range"
+  ],
+  "license": "MIT",
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "name": "header-range-parser",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r37r0m0d3l/header-range-parser.git"
+  },
+  "scripts": {
+    "lint": "eslint --config .eslintrc.js \"./src/**/*.ts\"",
+    "test": "node --test test/index.test.js",
+    "test:coverage": "node --test --experimental-test-coverage test/index.test.js",
+    "build": "npm run build:prod",
+    "build:test": "node ./build.js -- --minify=false --sourcemap=false",
+    "build:dev": "node ./build.js -- --minify=false --sourcemap=true",
+    "build:prod": "node ./build.js -- --minify=true --sourcemap=true",
+    "package:upgrade": "npx npm-check --update"
+  },
+  "type": "module",
+  "types": "./dist/index.d.ts",
+  "version": "2.0.0"
+}

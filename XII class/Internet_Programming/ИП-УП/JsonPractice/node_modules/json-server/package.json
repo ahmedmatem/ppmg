@@ -1,0 +1,73 @@
+{
+  "name": "json-server",
+  "version": "1.0.0-beta.15",
+  "description": "",
+  "keywords": [
+    "JSON",
+    "server",
+    "fake",
+    "REST",
+    "API",
+    "prototyping",
+    "mock",
+    "mocking",
+    "test",
+    "testing",
+    "rest",
+    "data",
+    "dummy"
+  ],
+  "license": "MIT",
+  "author": "typicode <typicode@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/typicode/json-server.git"
+  },
+  "bin": {
+    "json-server": "lib/bin.js"
+  },
+  "files": [
+    "lib",
+    "views",
+    "schema.json"
+  ],
+  "type": "module",
+  "dependencies": {
+    "@tinyhttp/app": "^3.0.1",
+    "@tinyhttp/cors": "^2.0.1",
+    "@tinyhttp/logger": "^2.1.0",
+    "chalk": "^5.6.2",
+    "chokidar": "^5.0.0",
+    "dot-prop": "^10.1.0",
+    "eta": "^4.5.0",
+    "inflection": "^3.0.2",
+    "json5": "^2.2.3",
+    "lowdb": "^7.0.1",
+    "milliparsec": "^5.1.0",
+    "sirv": "^3.0.2",
+    "sort-on": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.8",
+    "concurrently": "^9.2.1",
+    "get-port": "^7.1.0",
+    "husky": "^9.1.7",
+    "oxfmt": "^0.24.0",
+    "oxlint": "^1.39.0",
+    "tempy": "^3.1.0",
+    "type-fest": "^5.4.0",
+    "typescript": "^5.9.3"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "node --watch --experimental-strip-types src/bin.ts fixtures/db.json",
+    "build": "rm -rf lib && tsc",
+    "typecheck": "tsc --noEmit",
+    "test": "node --experimental-strip-types --test src/*.test.ts",
+    "lint": "oxlint src",
+    "fmt": "oxfmt",
+    "fmt:check": "oxfmt --check"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "milliparsec",
+  "version": "5.1.2",
+  "description": "tiniest body parser in the universe",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tinyhttp/milliparsec"
+  },
+  "author": "talentlessguy <hi@v1rtl.site>",
+  "license": "MIT",
+  "types": "./dist/index.d.ts",
+  "type": "module",
+  "keywords": [
+    "body-parser",
+    "express",
+    "http",
+    "body-parsing"
+  ],
+  "engines": {
+    "node": ">=18.13 || >=19.20 || >=20"
+  },
+  "exports": "./dist/index.js",
+  "devDependencies": {
+    "@biomejs/biome": "2.5.11",
+    "@tinyhttp/app": "^2.5.2",
+    "@types/express": "^5.0.6",
+    "@types/node": "^18.19.130",
+    "c8": "10.1.2",
+    "express": "^5.2.1",
+    "supertest-fetch": "^2.0.0",
+    "typescript": "^5.9.3"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "node --test test.ts",
+    "test:coverage": "c8 --include=src pnpm test",
+    "test:report": "c8 report --reporter=text-lcov > coverage.lcov",
+    "build": "tsc -p tsconfig.build.json",
+    "prepublishOnly": "pnpm build && pnpm test",
+    "check": "biome check --write"
+  },
+  "packageManager": "pnpm@10.11.0"
+}

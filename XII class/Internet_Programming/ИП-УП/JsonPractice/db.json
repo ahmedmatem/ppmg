@@ -1,0 +1,67 @@
+{
+  "posts": [
+    {
+      "title": "Djeyda",
+      "body": "body text",
+      "useid": "9",
+      "id": "O1eTTdCqWqY"
+    },
+    {
+      "id": "kMqpp68_oXI",
+      "title": "publikaciq ot uchitelq",
+      "body": "testwane zaqwa za syzdawane na publikaciq chrez post metod",
+      "userId": "25"
+    },
+    {
+      "id": "PoUI8f6ibUY"
+    },
+    {
+      "id": "LWjeEwfal8M"
+    },
+    {
+      "title": "Djeyda",
+      "body": "body text",
+      "useid": "9",
+      "id": "TBfKkdicnEY"
+    },
+    {
+      "title": "patkan",
+      "useid": "2",
+      "body": "put text",
+      "id": "Hnscb-UBHII"
+    },
+    {
+      "title": "patkan2",
+      "useid": "2",
+      "body": "put text",
+      "id": "7V_cJ1IQLMI"
+    },
+    {
+      "title": "Second post after deleting the first",
+      "body": "from Rafael",
+      "useid": "21",
+      "id": "DhwclavullA"
+    }
+  ],
+  "students": [
+    {
+      "id": "1",
+      "firstName": "Ahmed",
+      "lastName": "Matem",
+      "grade": "6.00"
+    },
+    {
+      "id": "2",
+      "firstName": "Ivan",
+      "lastName": "Ivanov",
+      "grade": "6.00"
+    },
+    {
+      "id": "3",
+      "firstName": "Ana",
+      "lastName": "Koleva",
+      "grade": "6.00"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
