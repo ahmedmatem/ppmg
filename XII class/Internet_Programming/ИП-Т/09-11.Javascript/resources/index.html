@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CinemaClub — Училищен киноклуб</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- В час 1 добавете тук връзката към новия script.js с defer. -->
+</head>
+<body>
+<header><div class="container topbar">
+  <p class="logo">УЧИЛИЩЕН КИНОКЛУБ</p>
+  <nav aria-label="Основно меню"><a href="#about">За нас</a><a href="#program">Програма</a><a href="#registration">Записване</a></nav>
+</div></header>
+<main class="container">
+  <section id="about" class="intro">
+    <p class="eyebrow">CinemaClub</p>
+    <h1>Всяка история има своя кадър.</h1>
+    <p>Гледаме, обсъждаме и откриваме магията на киното.</p>
+    <button id="likeButton" type="button">Харесвам клуба</button>
+    <button id="resetLikesButton" type="button" class="secondary">Нулирай харесванията</button>
+    <p id="likesText" class="counter" aria-live="polite">Харесвания: 0</p>
+  </section>
+  <section id="program">
+    <h2>Предстоящи срещи</h2>
+    <div class="articles">
+      <article><h3>Късометражно кино</h3><p>Гледаме кратки филми и обсъждаме техните послания.</p><p><time datetime="2026-11-12">12 ноември 2026 г.</time></p></article>
+      <article><h3>Моят първи сценарий</h3><p>Измисляме герои и създаваме история за кратък филм.</p><p><time datetime="2026-11-19">19 ноември 2026 г.</time></p></article>
+    </div>
+  </section>
+  <section id="registration" class="registration">
+    <h2>Записване за среща</h2>
+    <p>Учебна демонстрация. Използвайте измислени имена.</p>
+    <!-- novalidate позволява да упражним собствената проверка в JavaScript. -->
+    <form id="registrationForm" novalidate>
+      <div class="field"><label for="studentName">Име на участник</label><input id="studentName" name="studentName" type="text" placeholder="Например: Алекс" autocomplete="off"></div>
+      <div class="field"><label for="eventSelect">Среща</label><select id="eventSelect" name="eventName"><option value="Късометражно кино">Късометражно кино</option><option value="Моят първи сценарий">Моят първи сценарий</option></select></div>
+      <button type="submit">Запиши се</button>
+    </form>
+    <p id="message" class="message" role="status">Тук ще се появяват съобщенията от JavaScript.</p>
+    <h3>Записани участници</h3>
+    <p id="participantCount" aria-live="polite">Записани: 0</p>
+    <ul id="participantList" class="participants"></ul>
+    <button id="clearListButton" type="button" class="secondary">Изчисти списъка</button>
+    <p class="hint">Данните в демонстрацията се изчистват при презареждане.</p>
+  </section>
+</main>
+<footer><p>© 2026 CinemaClub · Учебен проект по ИП–УП</p></footer>
+</body>
+</html>

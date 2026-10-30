@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    background-color: rgb(245, 249, 248);
+    color:rgb(141, 143, 142);
+    margin: 0;
+}
+
+h1, h2, h3 {
+    color: rgb(52, 77, 52);
+}
+
+h1 {
+    margin: 0;
+    padding: 1em 0 0.5em;
+}
+
+.container {
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header {    
+    background-color: rgb(40, 85, 70);
+    color: white;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 24px;;
+}
+
+nav a:hover {
+    color:rgb(203, 208, 206);
+}
+
+p.logo {
+    font-size: 1.4em;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.2em;
+}
+
+/* Main */
+main {
+    flex-grow: 1;
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+#intro a{
+    background-color: rgb(37, 96, 77);
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.articles {
+    display: flex;
+    gap: 12px;
+}
+
+article {
+    background: white;
+    border: 2px solid rgb(235, 232, 232);
+    border-radius: 8px;
+    padding: 0 1.6em;
+}
+
+section#contact {
+    background: white;
+    padding: 0 1.6em;
+}
+
+section#contact a {
+    color: green;
+}
+
+/* Footer */
+footer {
+    background-color:  rgb(40, 85, 70);
+    color: white;
+    text-align: center;
+    padding: 16px 0;
+}

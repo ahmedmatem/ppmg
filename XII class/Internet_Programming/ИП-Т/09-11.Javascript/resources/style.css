@@ -1,0 +1,39 @@
+* { box-sizing: border-box; }
+body { margin: 0; min-height: 100vh; display: flex; flex-direction: column; font-family: Arial, sans-serif; font-size: 16px; line-height: 1.5; color: #303645; background: #f4f6fa; }
+.container { width: 90%; max-width: 1000px; margin: 0 auto; }
+header { padding: 18px 0; color: white; background: #203752; }
+.topbar { display: flex; align-items: center; justify-content: space-between; gap: 24px; }
+.logo { margin: 0; font-size: 21px; font-weight: bold; }
+nav { display: flex; gap: 22px; }
+nav a { color: white; text-decoration: none; }
+nav a:hover { text-decoration: underline; }
+main { flex: 1; padding: 24px 0; }
+section { margin-bottom: 24px; }
+h1 { margin: 0 0 12px; font-size: 32px; }
+h2 { margin: 0 0 16px; font-size: 24px; }
+h3 { margin: 0 0 12px; font-size: 20px; }
+p { margin: 0 0 12px; }
+.intro { padding: 28px; background: #e5edf8; border-left: 6px solid #9c652c; }
+.eyebrow { color: #52627a; font-weight: bold; }
+button { padding: 10px 16px; border: 1px solid #203752; border-radius: 4px; font: inherit; color: white; background: #203752; cursor: pointer; }
+button:hover { background: #34577d; }
+button.secondary { color: #203752; background: white; }
+button.secondary:hover { background: #e7edf5; }
+button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible { outline: 3px solid #a36b21; outline-offset: 3px; }
+.counter { margin: 14px 0 0; font-weight: bold; }
+.articles { display: flex; gap: 20px; }
+article { flex: 1; padding: 20px; border: 1px solid #ccd5e1; border-radius: 6px; background: white; }
+time { font-weight: bold; }
+.registration { margin-bottom: 0; padding: 24px; background: white; border: 1px solid #ccd5e1; border-radius: 6px; }
+.field { margin-bottom: 14px; }
+label { display: block; margin-bottom: 5px; font-weight: bold; }
+input, select { width: 100%; max-width: 460px; padding: 10px; border: 1px solid #9cabbf; border-radius: 4px; font: inherit; background: white; }
+.message { min-height: 24px; margin: 16px 0; }
+.message.error { color: #9b2226; font-weight: bold; }
+.message.success { color: #24623b; font-weight: bold; }
+.participants { padding-left: 24px; }
+.participants li { margin-bottom: 8px; }
+.hint { margin: 14px 0 0; font-size: 14px; color: #52627a; }
+footer { padding: 18px; color: white; text-align: center; background: #15263b; }
+footer p { margin: 0; }
+@media (max-width: 680px) { .topbar, .articles { flex-direction: column; align-items: stretch; } nav { flex-wrap: wrap; } h1 { font-size: 27px; } button { margin-bottom: 6px; } }
